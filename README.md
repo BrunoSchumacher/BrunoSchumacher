@@ -17,7 +17,7 @@
 </div>
 
   
-  ![Snake animation](https://github.com/s@BrunoSchumacher/@BrunoSchumacher/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sBrunoSchumacher/BrunoSchumacher/blob/output/github-contribution-grid-snake.svg)
    
 
 <!---
