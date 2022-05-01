@@ -1,6 +1,7 @@
-- <h1>👋 Olá!, Seja bem vindos ao perfil de @BrunoSchumacher
-- <h2>👀 Atualmente cursando a linguagem php no programa Entra21, com previsão de conclusão em outubro de 2022
-  <h2> Aprendendo...
+- <h1>👋 Olá!, Sejam bem vindos ao perfil de @BrunoSchumacher
+- <h2>🧑‍ Tenho 23 anos, sou natural de Timbó Grande-SC, mas atuamente me encontro em Lages-SC.
+- <h2>👀 Cursando a linguagem php no programa Entra21, com previsão de conclusão em outubro de 2022
+- <h2>✍️ Aprendendo...
   
  <br>  <h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
