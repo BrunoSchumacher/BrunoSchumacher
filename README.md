@@ -13,14 +13,17 @@
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="40" height="40"/> 
       <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40"/> 
         <img src="https://cdn-icons.flaticon.com/png/512/5548/premium/5548401.png?token=exp=1651527229~hmac=578961c36967cdd6dfcd93e9a2d5fc3a"width="40" height="40"/> 
-     
+   <h2><br> -Php 
+   <br> -Laravel
+   <br>- Git
+   <br> -Trello
+   <br> -Markdown
+   <br> -MySql
+   <br> -WordPress
+   <br> -Xampp
     
   
-  
-  
-  
-  
-     
+    
  <div>
 <a href="https://github.com/BrunoSchumacher">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchumacher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
