@@ -1,5 +1,5 @@
 - <h1>👋 Olá!, Sejam bem vindos ao perfil de @BrunoSchumacher
-- <h2>🧑‍ Tenho 23 anos, sou natural de Timbó Grande-SC, mas atuamente me encontro em Lages-SC.
+- <h2>🧑‍ Tenho 23 anos, sou natural de Timbó Grande-SC, mas atualmente me encontro em Lages-SC.
 - <h2>👀 Cursando a linguagem php no programa Entra21, com previsão de conclusão em outubro de 2022
 - <h2>✍️ Aprendendo...
   
